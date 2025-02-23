@@ -68,7 +68,7 @@ export const SocialFeatures = ({ onTaskComplete, showReward }: Props) => {
         <div className="flex justify-center mb-4">
           <div className="relative w-48 h-48 bg-white rounded-lg shadow-md overflow-hidden">
             <img 
-              src="/snapcode.png" 
+              src="https://raw.githubusercontent.com/YASH-OG/Over-Powered_2.0/refs/heads/customer_interface/snapcode.png?token=GHSAT0AAAAAAC4PWYVAAHWNWQPZMXJJXNCAZ52X3QA" 
               alt="Snapchat QR Code"
               className="w-full h-full object-contain"
             />
