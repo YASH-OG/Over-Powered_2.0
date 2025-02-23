@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "type": "popular_items",
+    "data": [
+      { "itemId": 1, "name": "Burger", "orderCount": 150 },
+      { "itemId": 2, "name": "Pizza", "orderCount": 120 }
+    ],
+    "period": "2025-02"
+  },
+  {
+    "id": 2,
+    "type": "popular_searches",
+    "data": [
+      { "term": "vegetarian", "count": 50 },
+      { "term": "spicy", "count": 30 }
+    ],
+    "period": "2025-02"
+  }
+]

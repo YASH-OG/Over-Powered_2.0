@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "type": "discount",
+    "name": "First Time Order",
+    "description": "20% off on your first order",
+    "value": 20,
+    "code": "FIRST20",
+    "validUntil": "2025-12-31"
+  },
+  {
+    "id": 2,
+    "type": "reward",
+    "name": "Loyalty Points",
+    "description": "Earn 10 points per $100 spent",
+    "value": 10,
+    "minimumSpend": 100
+  }
+]
