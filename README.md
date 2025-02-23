@@ -25,7 +25,9 @@ The system is divided into three core components:
 ## Features
 
 ### Customer Interface
-- **QR Code Access:** Instant connection to the digital menu via QR code scanning.  
+- **QR Code Access:** Instant connection to the digital menu via QR code scanning.
+- <img width="492" alt="Screenshot 2025-02-23 at 11 22 45 AM" src="https://github.com/user-attachments/assets/87d1d930-7729-4a7c-ba7d-e85547635d65" />
+
 - **Interactive Menu:** Detailed views of food items with descriptions and images.  
 - **Seamless Ordering:** Simple selection, customization, and submission of orders.  
 - **Additional Functionalities:**  
